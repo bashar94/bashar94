@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bashar</h1>
-<h3 align="center">A Passionate Problem Solver, Software Developer and an entrepreneur from Bangladesh</h3>
+<h3 align="center">A Passionate Problem Solver, Software Developer and an Entrepreneur from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bashar94&label=Profile%20views&color=0e75b6&style=flat" alt="bashar94" /> </p>
 
