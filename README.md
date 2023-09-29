@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bashar</h1>
-<h3 align="center">A Passionate Problem Solver, Software Developer and an Entrepreneur from Bangladesh</h3>
+<h3 align="center">A Passionate Problem Solver, Software Developer and Entrepreneur from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bashar94&label=Profile%20views&color=0e75b6&style=flat" alt="bashar94" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bashar94" alt="bashar94" /></a> </p>
 
-- 🔭 I’m currently working as a Senior Software Engineer on WPDeveloper
+- 🔭 I’m currently working as a Senior Software Engineer at WPDeveloper
 
 - 🌱 I’m currently learning **React, Vue**
 
