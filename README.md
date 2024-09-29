@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **AI/ML related projects**
 
-- 📝 I regularly write articles on [https://1000moc.com](https://1000moc.com)
+- 📝 I regularly write articles on [https://blog.iambashar.com](https://blog.iambashar.com)
 
 - 💬 Ask me about **Python, PHP, AI/ML**
 
