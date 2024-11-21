@@ -46,7 +46,7 @@
     <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" height="40"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="40" height="40"/>
   </a>
   
   <!-- Database -->
