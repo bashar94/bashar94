@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bashar94" alt="bashar94" /></a> </p>
 
-- 🔭 I’m currently working as a Senior Software Engineer at Startise
+- 🔭 I’m currently working as a developer (RAD) at Awesome Motive Inc.
 
 - 👯 I’m looking to collaborate on **AI/ML related projects**
 
