@@ -3,13 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bashar94&label=Profile%20views&color=0e75b6&style=flat" alt="bashar94" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bashar94" alt="bashar94" /></a> </p>
+[![Mentioned in Awesome Codex CLI](https://awesome.re/mentioned-badge.svg)](https://github.com/RoggeOhta/awesome-codex-cli)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://gh-trophy.cdnsoft.net/?username=bashar94&theme=light" alt="bashar94" /></a> </p>
+
 
 - 🔭 I’m currently working as a developer (RAD) at Awesome Motive Inc.
 
 - 👯 I’m looking to collaborate on **AI/ML related projects**
 
-- 📝 Read my blog posts on [https://blog.iambashar.com](https://blog.iambashar.com)
+#- 📝 Read my blog posts on [https://blog.iambashar.com](https://blog.iambashar.com)
 
 - 💬 Ask me about **Python, PHP, AI/ML**
 
