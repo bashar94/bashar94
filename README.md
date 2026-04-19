@@ -12,9 +12,7 @@
 
 - 👯 I’m looking to collaborate on **AI/ML related projects**
 
-#- 📝 Read my blog posts on [https://blog.iambashar.com](https://blog.iambashar.com)
-
-- 💬 Ask me about **Python, PHP, AI/ML**
+- 💬 Ask me about **Software Engineering, AI/ML, RAG, LLMs, Datapipelines**
 
 - 📫 How to reach me **bbhuiyan1@gmail.com**
 
@@ -22,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bashar1bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bashar1bhuiyan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/basharbhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basharbhuiyan" height="30" width="40" /></a>
+<a href="https://twitter.com/bashar1bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bashar1bhuiyan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5046652" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5046652" height="30" width="40" /></a>
 <a href="https://medium.com/@bbhuiyan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bbhuiyan1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucjljb7qcwyjkyeyfnaq5w2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjljb7qcwyjkyeyfnaq5w2w" height="30" width="40" /></a>
