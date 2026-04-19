@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bashar94&label=Profile%20views&color=0e75b6&style=flat" alt="bashar94" /> </p>
 
-[![Mentioned in Awesome Codex CLI](https://awesome.re/mentioned-badge.svg)](https://github.com/RoggeOhta/awesome-codex-cli)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://gh-trophy.cdnsoft.net/?username=bashar94&theme=light" alt="bashar94" /></a> </p>
 
 
